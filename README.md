@@ -1,4 +1,4 @@
-### 정희원(Jeong heewon)  |  Back-end Developer
+### 정희원(Jeong heewon) | Back-end Developer
 
 <!--
 **dev-jeong/dev-jeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
